@@ -8,7 +8,7 @@
     <title>GamesCorp</title>
     
     <!-- favicon -->
-    <link rel=icon href="assets/img/icono.png" sizes="20x20" type="image/png">
+     <link rel=icon href="assets/img/icono.png" sizes="200x499" type="image/png"> 
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/vendor.css">
